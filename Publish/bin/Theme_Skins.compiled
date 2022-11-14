@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WEB/App_Themes/Skins/" hash="80abf5ace" filehash="b035753d82408fdc" flags="110000" assembly="App_Theme_Skins" type="ASP.Skins">
+    <filedeps>
+        <filedep name="/WEB/App_Themes/Skins/" />
+    </filedeps>
+</preserve>

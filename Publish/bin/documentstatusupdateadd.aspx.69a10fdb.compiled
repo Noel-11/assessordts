@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WEB/Secured/DocumentMonitoring/DocumentStatusUpdateAdd.aspx" hash="80abf5ace" filehash="29e73b85f630386f" flags="110000" assembly="App_Web_tzgdhrzb" type="ASP.secured_documentmonitoring_documentstatusupdateadd_aspx">
+    <filedeps>
+        <filedep name="/WEB/Include/sFooter.ascx" />
+        <filedep name="/WEB/Include/sFooter.ascx.vb" />
+        <filedep name="/WEB/Include/sHeader.ascx" />
+        <filedep name="/WEB/Include/sHeader.ascx.vb" />
+        <filedep name="/WEB/Include/wucConfirmBoxBS.ascx" />
+        <filedep name="/WEB/Include/wucConfirmBoxBS.ascx.vb" />
+        <filedep name="/WEB/Secured/DocumentMonitoring/DocumentStatusUpdateAdd.aspx" />
+        <filedep name="/WEB/Secured/DocumentMonitoring/DocumentStatusUpdateAdd.aspx.vb" />
+    </filedeps>
+</preserve>

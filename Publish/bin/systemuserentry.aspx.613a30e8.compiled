@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WEB/Secured/SystemAdministration/SystemUserEntry.aspx" hash="80abf5ace" filehash="8886655c4119bee2" flags="110000" assembly="App_Web_cuo4tlmf" type="ASP.secured_systemadministration_systemuserentry_aspx">
+    <filedeps>
+        <filedep name="/WEB/Include/sFooter.ascx" />
+        <filedep name="/WEB/Include/sFooter.ascx.vb" />
+        <filedep name="/WEB/Include/sHeader.ascx" />
+        <filedep name="/WEB/Include/sHeader.ascx.vb" />
+        <filedep name="/WEB/Include/wucConfirmBoxBS.ascx" />
+        <filedep name="/WEB/Include/wucConfirmBoxBS.ascx.vb" />
+        <filedep name="/WEB/Include/wucMainMenuBS.ascx" />
+        <filedep name="/WEB/Include/wucMainMenuBS.ascx.vb" />
+        <filedep name="/WEB/Secured/SystemAdministration/SystemUserEntry.aspx" />
+        <filedep name="/WEB/Secured/SystemAdministration/SystemUserEntry.aspx.vb" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WEB/Include/wucCaptcha.ascx" hash="80abf5ace" filehash="9291c04ab61f95e8" flags="110000" assembly="App_Web_ku3kyhs0" type="ASP.include_wuccaptcha_ascx">
+    <filedeps>
+        <filedep name="/WEB/Include/wucCaptcha.ascx" />
+        <filedep name="/WEB/Include/wucCaptcha.ascx.vb" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WEB/ADTSAdmin.aspx" hash="80abf5ace" filehash="9e207da2a8bf896d" flags="110000" assembly="App_Web_z0d4t5p2" type="ASP.adtsadmin_aspx">
+    <filedeps>
+        <filedep name="/WEB/ADTSAdmin.aspx" />
+        <filedep name="/WEB/ADTSAdmin.aspx.vb" />
+    </filedeps>
+</preserve>

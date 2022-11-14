@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WEB/Secured/Reference/RefDocumentType.aspx" hash="80abf5ace" filehash="d1dcdfb5cd9ae909" flags="110000" assembly="App_Web_0m3pdy2p" type="ASP.secured_reference_refdocumenttype_aspx">
+    <filedeps>
+        <filedep name="/WEB/Include/sFooter.ascx" />
+        <filedep name="/WEB/Include/sFooter.ascx.vb" />
+        <filedep name="/WEB/Include/sHeader.ascx" />
+        <filedep name="/WEB/Include/sHeader.ascx.vb" />
+        <filedep name="/WEB/Include/wucConfirmBoxBS.ascx" />
+        <filedep name="/WEB/Include/wucConfirmBoxBS.ascx.vb" />
+        <filedep name="/WEB/Include/wucMainMenuBS.ascx" />
+        <filedep name="/WEB/Include/wucMainMenuBS.ascx.vb" />
+        <filedep name="/WEB/Secured/Reference/RefDocumentType.aspx" />
+        <filedep name="/WEB/Secured/Reference/RefDocumentType.aspx.vb" />
+    </filedeps>
+</preserve>

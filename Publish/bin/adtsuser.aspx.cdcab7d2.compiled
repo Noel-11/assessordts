@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WEB/ADTSUser.aspx" hash="80abf5ace" filehash="be00e8417064d0aa" flags="110000" assembly="App_Web_z0d4t5p2" type="ASP.adtsuser_aspx">
+    <filedeps>
+        <filedep name="/WEB/ADTSUser.aspx" />
+        <filedep name="/WEB/ADTSUser.aspx.vb" />
+        <filedep name="/WEB/Include/sFooter.ascx" />
+        <filedep name="/WEB/Include/sFooter.ascx.vb" />
+        <filedep name="/WEB/Include/sHeader.ascx" />
+        <filedep name="/WEB/Include/sHeader.ascx.vb" />
+        <filedep name="/WEB/Include/wucConfirmBoxBS.ascx" />
+        <filedep name="/WEB/Include/wucConfirmBoxBS.ascx.vb" />
+        <filedep name="/WEB/Include/wucMainMenuBS.ascx" />
+        <filedep name="/WEB/Include/wucMainMenuBS.ascx.vb" />
+    </filedeps>
+</preserve>
