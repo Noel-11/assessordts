@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WEB/Secured/SystemAdministration/cmsMenu.aspx" hash="80abf5ace" filehash="69295e115691b50c" flags="110000" assembly="App_Web_ulqcybsd" type="ASP.secured_systemadministration_cmsmenu_aspx">
+<preserve resultType="3" virtualPath="/WEB/Secured/SystemAdministration/cmsMenu.aspx" hash="80abf5ace" filehash="69295e115691b50c" flags="110000" assembly="App_Web_xrh4jwhu" type="ASP.secured_systemadministration_cmsmenu_aspx">
     <filedeps>
         <filedep name="/WEB/Include/sFooter.ascx" />
         <filedep name="/WEB/Include/sFooter.ascx.vb" />

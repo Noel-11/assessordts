@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WEB/Secured/Default.aspx" hash="80abf5ace" filehash="d35fc6a747530a5b" flags="110000" assembly="App_Web_saglzils" type="ASP.secured_default_aspx">
+<preserve resultType="3" virtualPath="/WEB/Secured/Default.aspx" hash="80abf5ace" filehash="d35fc6a747530a5b" flags="110000" assembly="App_Web_b2awio5f" type="ASP.secured_default_aspx">
     <filedeps>
         <filedep name="/WEB/Include/sFooter.ascx" />
         <filedep name="/WEB/Include/sFooter.ascx.vb" />

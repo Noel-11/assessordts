@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WEB/Secured/SystemAdministration/UserEntryAdd.aspx" hash="80abf5ace" filehash="5258a417a2fde077" flags="110000" assembly="App_Web_ef4ueq5c" type="ASP.secured_systemadministration_userentryadd_aspx">
+<preserve resultType="3" virtualPath="/WEB/Secured/SystemAdministration/UserEntryAdd.aspx" hash="80abf5ace" filehash="5258a417a2fde077" flags="110000" assembly="App_Web_sfagnygu" type="ASP.secured_systemadministration_userentryadd_aspx">
     <filedeps>
         <filedep name="/WEB/Include/sFooter.ascx" />
         <filedep name="/WEB/Include/sFooter.ascx.vb" />

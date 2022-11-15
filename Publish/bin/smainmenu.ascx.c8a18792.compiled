@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WEB/Include/sMainMenu.ascx" hash="80abf5ace" filehash="7a1695349e381596" flags="110000" assembly="App_Web_ocuuobza" type="ASP.include_smainmenu_ascx">
+<preserve resultType="3" virtualPath="/WEB/Include/sMainMenu.ascx" hash="80abf5ace" filehash="7a1695349e381596" flags="110000" assembly="App_Web_11l5xopz" type="ASP.include_smainmenu_ascx">
     <filedeps>
         <filedep name="/WEB/Include/sMainMenu.ascx" />
         <filedep name="/WEB/Include/sMainMenu.ascx.vb" />
