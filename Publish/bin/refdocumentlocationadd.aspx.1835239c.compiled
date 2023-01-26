@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WEB/Secured/Reference/RefDocumentLocationAdd.aspx" hash="80abf5ace" filehash="317fc3d7b15e6e38" flags="110000" assembly="App_Web_ffjcpigz" type="ASP.secured_reference_refdocumentlocationadd_aspx">
+<preserve resultType="3" virtualPath="/WEB/Secured/Reference/RefDocumentLocationAdd.aspx" hash="80abf5ace" filehash="66155ae22633e7bf" flags="110000" assembly="App_Web_c3miiakr" type="ASP.secured_reference_refdocumentlocationadd_aspx">
     <filedeps>
         <filedep name="/WEB/Include/sFooter.ascx" />
         <filedep name="/WEB/Include/sFooter.ascx.vb" />

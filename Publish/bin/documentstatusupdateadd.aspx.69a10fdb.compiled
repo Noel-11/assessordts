@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/WEB/Secured/DocumentMonitoring/DocumentStatusUpdateAdd.aspx" hash="80abf5ace" filehash="29e73b85f630386f" flags="110000" assembly="App_Web_ctvzwlxu" type="ASP.secured_documentmonitoring_documentstatusupdateadd_aspx">
+<preserve resultType="3" virtualPath="/WEB/Secured/DocumentMonitoring/DocumentStatusUpdateAdd.aspx" hash="80abf5ace" filehash="711a4912ad9ed446" flags="110000" assembly="App_Web_a4lwfci4" type="ASP.secured_documentmonitoring_documentstatusupdateadd_aspx">
     <filedeps>
         <filedep name="/WEB/Include/sFooter.ascx" />
         <filedep name="/WEB/Include/sFooter.ascx.vb" />
